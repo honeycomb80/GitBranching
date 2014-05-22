@@ -1,2 +1,3 @@
 puts "Hello"
-puts "this is branch1"
+puts "this is master"
+puts "I'm a text file!"
